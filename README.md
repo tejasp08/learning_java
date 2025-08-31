@@ -7,3 +7,4 @@ Day 2: Understood the conditionals i.e. if-else statements and multiple if-else 
 <br>
 Loops: Learned about loops, which are for, while and do-while loop. Also performed some number printing using loops.
 <br>
+Did some questions using conditionals and loops, such as finding largest of 3 numbers, checking if a character is in upper or lowercase, printing fibonacci series till N number, printing the Nth fibonacci number, checking a specific number which is repeating in given number and reversing a number.
