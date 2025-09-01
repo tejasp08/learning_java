@@ -9,3 +9,5 @@ Day 3: Learned about loops, which are for, while and do-while loop. Also perform
 <br><br>
 Day 4: Did some questions using conditionals and loops, such as finding largest of 3 numbers, checking if a character is in upper or lowercase, printing fibonacci series till N number, printing the Nth fibonacci number, checking a specific number which is repeating in given number and reversing a number.
 <br><br>
+Day 5: Did Calcualtor program for basic arithmetic operations, using conditional statements and while loop.
+<br><br>
