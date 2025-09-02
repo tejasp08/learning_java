@@ -11,3 +11,5 @@ Day 4: Did some questions using conditionals and loops, such as finding largest 
 <br><br>
 Day 5: Did Calcualtor program for basic arithmetic operations, using conditional statements and while loop.
 <br><br>
+Day 6: Understood the switch case. Performed switch case with older syntax as well as new syntax.
+<br><br>
