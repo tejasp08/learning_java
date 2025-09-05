@@ -15,3 +15,5 @@ Day 6: Understood the switch case. Performed switch case with older syntax as we
 <br><br>
 Day 7: Started with functions. Understanding its basic syntax and flow. Created many functions such as greetings, sum of 2 numbers with and without arguments and also understood the return types. Also understood how to take variable length of arguments in functions.
 <br><br>
+Day 8: Understood function overloading and did some questions on functions.
+<br><br>
