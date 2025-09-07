@@ -19,3 +19,5 @@ Day 8: Understood function overloading and did some questions on functions.
 <br><br>
 Day 9: Started with Arrays. Understood the syntax, definition of arrays, printing of arrays. Also understood the mutability, i.e. arrays are mutable.
 <br><br>
+Day 10: Learned about 2D arrays, its syntax, definition and printing.
+<br><br>
