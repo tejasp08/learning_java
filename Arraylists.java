@@ -58,7 +58,6 @@ public class Arraylists {
                 list.get(i).add(in.nextInt());
             }
         }
-
         System.out.println(list);
     }
 }
