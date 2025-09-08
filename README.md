@@ -21,3 +21,5 @@ Day 9: Started with Arrays. Understood the syntax, definition of arrays, printin
 <br><br>
 Day 10: Learned about 2D arrays, its syntax, definition and printing.
 <br><br>
+Day 11: Learned about array lists, its syntax, definition and printing.
+<br><br>
