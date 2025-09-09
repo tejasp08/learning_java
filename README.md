@@ -24,4 +24,4 @@ Day 10: Learned about 2D arrays, its syntax, definition and printing.
 Day 11: Learned about array lists, its syntax, definition and printing.
 <br><br>
 Day 12: Did 3 questions based on arrays. Swapping two elements, maximum element from the array and reversing the array.
-<br>
+<br><br>
