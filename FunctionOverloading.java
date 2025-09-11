@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class FunctionOverloading {
-    public static void main(String[] args) {
+    public static void main(Stringss[] args) {
         
         // func(45);
         // func("hello");

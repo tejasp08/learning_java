@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class MoreFunctions {
-    public static void main(String[] args) {
+    public static void main(Stringss[] args) {
         Scanner in = new Scanner(System.in);
 
         //Max and min from 3 numbers
@@ -140,7 +140,7 @@ public class MoreFunctions {
 
     //To check if a number is palindrome or not
     static boolean palindromeornot (int a) {
-        String num = Integer.toString(a);
+        Stringss num = Integer.toString(a);
 
         for (int i = 0; i < num.length(); i++) {
             if (num.charAt(i) != num.charAt(num.length()-i-1)) {

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Day1{
-    public static void main(String[] args) {
+    public static void main(Stringss[] args) {
         //Hello world
         // System.out.print("Hello World!!");
         // System.out.println("My name is xyz");

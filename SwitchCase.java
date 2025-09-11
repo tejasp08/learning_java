@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class SwitchCase {
-    public static void main(String[] args) {
+    public static void main(Stringss[] args) {
         
         Scanner in = new Scanner(System.in);
         // System.out.println("Enter a name of strawhat crew: ");

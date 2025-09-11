@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 public class Arrays {
-    public static void main(String[] args) {
+    public static void main(Stringss[] args) {
         
         //datatype[] varname = new datatype[size];
         /* int[] rollno = new int[5]; */

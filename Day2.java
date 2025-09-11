@@ -1,5 +1,5 @@
 public class Day2 {
-    public static void main(String[] args) {
+    public static void main(Stringss[] args) {
         
         //Conditionals if-else
         int salary = 25000;

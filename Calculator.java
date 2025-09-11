@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Calculator {
-    public static void main(String[] args) {
+    public static void main(Stringss[] args) {
         Scanner in = new Scanner(System.in);
 
         //To continue the calculator programm till user enters 'x' or 'X'
