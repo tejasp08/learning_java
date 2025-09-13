@@ -15,7 +15,7 @@ public class Stringss {
         // String str2 = new String("Hello");
         // System.out.println(str == str2); // == comapres the instances not content
 
-        // System.out.println(str.equals(str2)); // her content is compared
+        // System.out.println(str.equals(str2)); // here content is compared
 
         //StringBuffer and some methods
         // StringBuffer sb = new StringBuffer("HELLO");
@@ -34,6 +34,10 @@ public class Stringss {
         // sb.delete(1, 8);
         // System.out.println(sb);
 
-        
+        //Pretty printing
+        float a = 45.639f;
+        System.out.printf("Th formatted number is %.2f", a);
+        System.out.println();
+        System.out.printf("my name is %s and i'm %s", "Tony Stark", "Iron Man");
     }
 }
