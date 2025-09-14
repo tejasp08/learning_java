@@ -27,4 +27,5 @@ Day 12: Did 3 questions based on arrays. Swapping two elements, maximum element 
 <br><br>
 Day 13: Did questions based on functions. Such as to check odd or even, factorial of a number, sum of n natural numbers, etc.
 <br><br>
-Day 14: Started with Strings.
+Day 14: Started with Strings. Experimented with some string methods, used String buffer and string builder as well
+<br><br>
