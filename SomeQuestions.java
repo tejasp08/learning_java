@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class SomeQuestions {
-    public static void main(Stringss[] args) {
+    public static void main(String[] args) {
         //Largest of 3 numbers
         Scanner in = new Scanner(System.in);
 

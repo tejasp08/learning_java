@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Array2D {
-    public static void main(Stringss[] args) {
+    public static void main(String[] args) {
         /* 
         int[][] arr = {
             {1,2,3},

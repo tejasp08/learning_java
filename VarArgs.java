@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class VarArgs {
-    public static void main(Stringss[] args) {
+    public static void main(String[] args) {
         //vars(5,4,9,6,7,8,10,25,45,89,45,78,100,456);
 
         //words("I'm Iron Man", "Genius", "Billionaire", "Philantrophist");

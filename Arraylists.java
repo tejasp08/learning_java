@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Arraylists {
-    public static void main(Stringss[] args) {
+    public static void main(String[] args) {
         /* 
         //Syntax
         ArrayList<Integer> list = new ArrayList<>(10);

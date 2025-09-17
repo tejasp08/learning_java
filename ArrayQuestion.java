@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class ArrayQuestion {
-    public static void main(Stringss[] args) {
+    public static void main(String[] args) {
         int[] arr = {10, 7, 11, 45, 8, 1};
         //Swapping of two elements
          

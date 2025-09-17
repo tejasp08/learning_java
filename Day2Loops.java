@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Day2Loops {
-    public static void main(Stringss[] args) {
+    public static void main(String[] args) {
         
         //Printing numbers from 1 to 5 using for loop
         // for (int num = 1; num <= 5; num++) {
