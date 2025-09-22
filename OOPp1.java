@@ -14,12 +14,12 @@ public class OOPp1 {
         System.out.println(alex.rollno);
         System.out.println(alex.name);
 
-        //acessing the values from Goat class
-        Goat star = new Goat("John Cena", 17, "WWE HOF, Legend");
-        System.out.println(star.name);
-        System.out.println(star.champ);
-        System.out.println(star.status);
-        star.slogan();
+        //many more student objects can be created via Student class
+        Student tejas = new Student(63,"tejas", 84.55f);   
+        System.out.println(tejas.name);
+        System.out.println(tejas.rollno);
+
+        
     }
 
     
@@ -28,30 +28,24 @@ public class OOPp1 {
 
 
 
-//creating a class of student that takes rollno, name and marks (DEFAULT CONSTRUCTOR)
+//creating a class of student that takes rollno, name and marks
 class Student  {
         
         int rollno;
         String name;
         float marks;
         
-        //these values need to be added in order to be accessed('this' keyword is used)
+        Student (int rollno, String name, float marks) {
+            this.rollno = rollno;
+            this.name = name;
+            this.marks = marks;
+        }
+
+        Student () {
+            rollno = 46;
+            name = "unkown";
+            marks = 0.00f;
+        }
 }
 
-class Goat {
-    String name;
-    int champ;
-    String status;
 
-    //making constructor and giving it parameters
-    Goat(String name, int champ, String status) {
-        this.name = name;
-        this.champ = champ;
-        this.status = status;
-
-    }
-
-    void slogan () {
-        System.out.println("You Can't See Me!!!");
-    }
-}
