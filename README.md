@@ -29,4 +29,6 @@ Day 13: Did questions based on functions. Such as to check odd or even, factoria
 <br><br>
 Day 14: Started with Strings. Experimented with some string methods, used String buffer and string builder as well
 <br><br>
-Day 15: Staretd with OOPs concept. Understood Object, Class and its 4 pillars that are encapsulation, polymorphism, abstarction and inheritance. Also learned about 'this' keyword.
+Day 15: Staretd with OOPs concept. Understood Object, Class and its 4 pillars that are encapsulation, polymorphism, abstarction and inheritance.
+<br><br>
+Day 16: Created a class and objects, where the class is in a seperate file and it is being called in Test file. 
