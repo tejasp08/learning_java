@@ -29,5 +29,6 @@ public class Test {
         iniesta.player_position = "CM";
         iniesta.status = "Retired";
         System.out.println(iniesta);
+        
     }
 }
