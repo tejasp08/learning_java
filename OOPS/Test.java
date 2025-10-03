@@ -5,7 +5,7 @@ public class Test {
 
     public static void main(String[] args) {
     
-        //Calling FCBarcelona class
+        //Calling a class and creating objcets with default constructors
         FCBarcelona raphina = new FCBarcelona();
         raphina.player_name = "Raphina";
         raphina.player_position = "LW/CAM";
@@ -29,6 +29,14 @@ public class Test {
         iniesta.player_position = "CM";
         iniesta.status = "Retired";
         System.out.println(iniesta);
+        
+        
+        //Calling a class and creating objects with parameterized constructors
+        UCL rm = new UCL("Real Madrid CF", 15);
+        UCL acm = new UCL("AC Milan", 7);
+        UCL fcbm = new UCL("FC Bayern Munich", 6);
+        UCL fcb = new UCL("FC Barcelona", 5);
+        UCL lvpl = new UCL("Liverpool", 6);
         
     }
 }
