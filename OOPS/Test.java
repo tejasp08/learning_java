@@ -38,5 +38,37 @@ public class Test {
         UCL fcb = new UCL("FC Barcelona", 5);
         UCL lvpl = new UCL("Liverpool", 6);
         
+
+        //Creating a bank account class and various account objects
+        BankAccount account = new BankAccount();
+        account.set_acc_number(789456);
+        account.set_acc_holder("Alex");
+        account.set_acc_balance(45000);
+
+        //display
+        System.out.println("Account holder: " + account.get_acc_holder());
+        System.out.println("Account No.: " + account.get_acc_number());
+        System.out.println("Balance in Account: " + account.get_acc_balance());
+
+        account.deposit(450);
+        account.withdraw(250);
+        account.deposit(1000);
+        account.withdraw(50000);
+        System.out.println("Balance in Account: " + account.get_acc_balance());
+
+
+        //Employee details class: Has various fields such as id, name and salary, also a giveRaise method is created.
+        EmployeeDetails emp1 = new EmployeeDetails();
+        emp1.set_emp_id(45);
+        emp1.set_emp_name("John");
+        emp1.set_salary(50000);
+
+        emp1.giveRaise(5);
+
+        System.out.println("Employee ID: " + emp1.get_emp_id());
+        System.out.println("Employee name: " + emp1.get_emp_name());
+        System.out.println("Employee Salary: " + emp1.get_salary());
+
+
     }
 }
