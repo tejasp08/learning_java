@@ -37,3 +37,5 @@ Day 17: Created differnt class files such as BankAccount and EmployeeDetails, wh
 <br><br>
 Day 18: Performed questions based on OOPs concept.
 <br><br>
+Day 19: Performed a question of calculating Employee salary, for part time and full time employees using OOPS concepts.
+<br><br>
