@@ -69,6 +69,28 @@ public class Test {
         System.out.println("Employee name: " + emp1.get_emp_name());
         System.out.println("Employee Salary: " + emp1.get_salary());
 
-
+        //Q: Employee Salary Calculator*
+        
+        /*Problem Statement:
+        Design an abstract class Employee with methods calculateSalary() and 
+        displayDetails(). Create subclasses FullTimeEmployee and PartTimeEmployee that 
+        implement salary calculation differently. For FullTimeEmployee, salary = base salary + bonus. 
+        For PartTimeEmployee, salary = hours worked × hourly rate. In the main class, 
+        create objects of both and display their details.
+        */
+        FullTimeEmployee e1 = new FullTimeEmployee();
+		e1.name = "John";
+		e1.empId = 100;
+		e1.set_baseSalary(20000);
+		e1.calculateSalary();
+		e1.displayDetails();
+		
+		PartTimeEmployee e2 = new PartTimeEmployee();
+		e2.name = "Alex";
+		e2.empId = 101;
+		e2.set_hourlyrate(250);
+		e2.set_hoursWorked(6);
+		e2.calculateSalary();
+		e2.displayDetails();
     }
 }
