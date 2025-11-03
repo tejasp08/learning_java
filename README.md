@@ -39,3 +39,5 @@ Day 18: Performed questions based on OOPs concept.
 <br><br>
 Day 19: Performed a question of calculating Employee salary, for part time and full time employees using OOPS concepts.
 <br><br>
+Day 20: Learnt about file handling in java. Created a file, read from the file and write in the file.
+<br><br>
